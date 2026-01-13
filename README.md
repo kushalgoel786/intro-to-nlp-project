@@ -137,16 +137,14 @@ You should see a detailed answer, as well as a success rate.
  src  # source code directory for your program
  work  # checkpoint directory for your program, which contains any intermediate result you require to perform prediction, such as model parameters
  Dockerfile  # your Dockerfile
- team.txt  # your team information
+ team.txt  # your information
  pred.txt  # your predictions for the example data `example/input.txt`
  ```
  
- In `team.txt`, please put your names and NetIDs in the following format:
+ In `team.txt`, please put your name and NetID in the following format:
  
  ```
  Name1,WaterlooID1  # e.g. Victor Zhong,vzhng
- Name2,WaterlooID2
- Name3,WaterlooID3
  ```
  
  Your `src` directory must contain a `predict.sh` file, which, when executed as `bash src/predict.sh <path_to_test_data> <path_to_predictions>` must write predictions to the file `<path_to_predictions>`.
@@ -184,8 +182,8 @@ You should see a detailed answer, as well as a success rate.
  As more questions come in, we will create a FAQ here.
  In the mean time, please post your questions to Piazza with the tag `Projects`.
  
- Can we have 2 or 4 instead of 3 members?
- > We strongly prefer that you have 3 members. If you would really like to have a group of 4, please instead do two groups of 2.
+ Can we work in teams?
+ > No.
  
  Will we get help in selecting datasets? Could we also get tips on finding good corpora?
  > Not at this time. Choosing and preprocessing your data is a key component of practising NLP in the real world and we would like you to experience it first hand.
