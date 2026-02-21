@@ -36,7 +36,7 @@ Submit your deliverables on LEARN. Your proposal/reports must have the names `pr
 
 ### Midterm Check-in (due Feb 23)
 
-**Deliverable**: Upload your test output to Kaggle and a submission of your source code and Dockerfile (see "Submitting your project").
+**Deliverable**: Upload your test output to Kaggle and a submission of your source code and Dockerfile to LEARN (see "Submitting your project").
 
 **Grading** (our baseline implementation scores around 65% on the private set):
 
